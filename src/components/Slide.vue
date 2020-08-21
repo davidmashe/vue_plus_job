@@ -10,9 +10,11 @@ export default {
   components: {
     HelloWorld
   },
-  data: {
-    router: [],
-    selectedIndex: 0
+  data: function() {
+    return {
+    	router: [],
+    	selectedIndex: 0
+	};
   },
   created: function() {
 
