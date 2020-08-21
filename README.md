@@ -4,7 +4,7 @@
 
 - I am obsessed with software engineer job searching
 - I have given presentations on how junior engineers should take control of the job search process
-- 
+- I might be an idiot
 
 ## I Used To Say ->
 
@@ -29,4 +29,10 @@
 
 ## Noticing A Trend?
 
-Linkedin is a big deal. 
+Linkedin is a big deal. I might be an idiot, because I have not been telling people to use Linkedin. Hiring manager use Linkedin, recruiters use Linkedin. So use Linkedin!
+
+## Ok, but...
+
+Hold up. Recruiters & H.M.s don't give a shit about junior engineers most of the time. They are the ones making nonsense job descriptions  and handing out exploitative take home assignments. Yes, I can game these people better to my own advantage via Linkedin. But...
+
+## Don't you still want to bypass the bullshit, if possible?
