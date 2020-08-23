@@ -1,6 +1,6 @@
 <template>
   <div>
-    <span>Two</span>
+    <span>Three</span>
     <Slide headerText="'sup braaah'" />
   </div>
 </template>
@@ -10,7 +10,7 @@
 import Slide from './Slide.vue';
 
 export default {
-  name: 'SlideTwo',
+  name: 'SlideThree',
   components: {
     Slide
   }
